@@ -22,7 +22,7 @@ Apply the `half` class like so to display two images side by side that share the
 
 ```html
 <figure class="half">
-	<img src="/images/image-filename-1.jpg" alt="">
+	<img src="u=4128240577,2329001118&fm=23&gp=0.gif" alt="">
 	<img src="/images/image-filename-2.jpg" alt="">
 	<figcaption>Caption describing these two images.</figcaption>
 </figure>
