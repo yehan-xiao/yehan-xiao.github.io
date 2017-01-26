@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: new
 title: Blog
 ---
 
