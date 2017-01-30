@@ -1,16 +1,17 @@
 ---
 layout: post
 title: JavaFX App MapViewer for Game Diamond Hunter
-excerpt: ![placeholder](http://okkrf0epo.bkt.clouddn.com/MapViewer.gif)
 ---
+![placeholder](http://okkrf0epo.bkt.clouddn.com/MapViewer.gif)
 
-###Game Diamond Hunter
+
+### Game Diamond Hunter
 
 Diamand Hunter is an open source game developed by Java Swing.
 ![placeholder](http://okkrf0epo.bkt.clouddn.com/DHgame.gif)
 
 
-###JavaFX App MapViewer for Game Diamond Hunter
+### JavaFX App MapViewer for Game Diamond Hunter
 
 This is a coursework in school. 
 I write a JavaFX App called MapViewer for easier setting game.
