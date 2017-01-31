@@ -8,6 +8,7 @@ This is a coursework to build an event register website containing the user inte
 </div>
 
 ## Functions
+
 ### Users
 
 This website allows users to sign up/log in and attend particular events.
