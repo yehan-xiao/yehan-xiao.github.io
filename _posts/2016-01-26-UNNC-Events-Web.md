@@ -8,7 +8,7 @@ title: UNNC Event Website
 <p>This is a coursework to build an event register website containing the user interface, user system, administer platform using HTML, CSS, JavaScript, PHP, MySQL.</p>
 
 ## Functions
-### User
+### Users
 <p>This website allows users to sign up/log in and attend particular events.</p>
 ![placeholder](http://okkrf0epo.bkt.clouddn.com/unnc-event-user.gif)
 
@@ -23,6 +23,7 @@ title: UNNC Event Website
 
 ### Database
 ![placeholder](http://okkrf0epo.bkt.clouddn.com/unnc-event-database.gif)
+
 
 ## Techs
 - Front end: HTML, CSS, JavaScript, Jquery Plugins.
