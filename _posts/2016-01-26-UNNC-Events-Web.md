@@ -4,23 +4,24 @@ title: UNNC Event Website
 ---
 ![placeholder](http://okkrf0epo.bkt.clouddn.com/unnc-event-user.gif)
 
-
-<p>This is a coursework to build an event register website containing the user interface, user system, administer platform using HTML, CSS, JavaScript, PHP, MySQL.</p>
+<div class="message">
+This is a coursework to build an event register website containing the user interface, user system, administer platform using HTML, CSS, JavaScript, PHP, MySQL.
+</div>
 
 ## Functions
 
 ### Users
 
-<p>This website allows users to sign up/log in and attend particular events.</p>
+This website allows users to sign up/log in and attend particular events.
 ![placeholder](http://okkrf0epo.bkt.clouddn.com/unnc-event-user.gif)
 
 
 ### Administrator platform
 
-<p>Administrator can add, edit and delete the admins.</p>
+Administrator can add, edit and delete the admins.
 ![placeholder](http://okkrf0epo.bkt.clouddn.com/unnc-event-admin.gif)
 
-<p>Administrators can also add, edit and delete events as necessary</p>
+Administrators can also add, edit and delete events as necessary
 ![placeholder](http://okkrf0epo.bkt.clouddn.com/unnc-event-event.gif)
 
 
