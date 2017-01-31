@@ -22,5 +22,3 @@ title: JavaFX App: MapViewer for Game Diamond Hunter
 - Code: JavaFX + SceneBuilder
 - Design Pattern: Model View Controller
 ![placeholder](http://okkrf0epo.bkt.clouddn.com/Mapviewer-struct.png)
-
- 
