@@ -6,7 +6,8 @@ title: UNNC Event Website
 <div class="message">
 This is a coursework to build an event register website containing the user interface, user system, administer platform using HTML, CSS, JavaScript, PHP, MySQL.
 </div>
-## Menu
+
+<h2>Menu</h2>> 
 - [Code](#1)
 - [Functions](#2)
 	- [Users](#2.1)
