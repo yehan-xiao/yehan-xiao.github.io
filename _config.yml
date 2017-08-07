@@ -4,14 +4,13 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Yehan
 tagline:          '1+1=10'
 description:      'Programming beginner'
 url:              http://yehan-xiao.github.io
-baseurl:          /
+baseurl:          /hyde/
 
 
 # Assets
