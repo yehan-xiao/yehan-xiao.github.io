@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-
+relative_permalinks: true
 
 # Setup
 title:            Yehan
@@ -21,7 +21,7 @@ sass:
   sass_dir:          _scss
   style:            :compressed
 
-  
+
 author:           
   name:           'Yehan Xiao'
   url:            
@@ -30,7 +30,7 @@ gems:
   - jekyll-paginate
   - jekyll-gist
 
-paginate:         5
+paginate:         6
 
 # Custom vars
 version:          1.0.0
