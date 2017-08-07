@@ -13,14 +13,6 @@ url:              http://yehan-xiao.github.io
 baseurl:          /
 
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _scss
-  style:            :compressed
-
-
 author:           
   name:           'Yehan Xiao'
   url:            
@@ -29,7 +21,7 @@ gems:
   - jekyll-paginate
   - jekyll-gist
 
-paginate:         6
+paginate:         5
 
 # Custom vars
 version:          1.0.0
