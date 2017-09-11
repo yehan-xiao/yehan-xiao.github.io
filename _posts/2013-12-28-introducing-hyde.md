@@ -1,12 +1,9 @@
 ---
 layout: post
 title: Introducing Hyde
-excerpt: What text editor to use? Sass or plain old CSS? What on earth is Compass? Command    line? I'm not touching that. Sound like you? Welcome, I was once like you and this is the guide I wish someone had given me.
 ---
 
-<p>
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
-</p>
 
 ### Built on Poole
 
