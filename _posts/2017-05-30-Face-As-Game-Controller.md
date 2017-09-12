@@ -10,8 +10,11 @@ title: Face As Game Controller
 
 
 <h3 id="1">What is Face As Game Controller?</h3>
-<p>A new human computer interaction</p>
-<p>This project can be used into all games on windows</p>
+
+A new human computer interaction. 
+
+Create a controller that uses facial tracking in use for different video games. The controller will be made to interact with DosBox in order to play retro games such as pacman, mortal kombat etc.
+
 
 ![placeholder](http://okkrf0epo.bkt.clouddn.com/Game1.gif)
 
