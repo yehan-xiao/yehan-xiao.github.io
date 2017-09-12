@@ -3,7 +3,8 @@ layout: post
 title: 课本循环平台
 ---
 ### 1.0版本原型
-[课本循环平台1.0版前台原型](http://osvz68mjl.bkt.clouddn.com/%E8%AF%BE%E6%9C%AC%E5%BE%AA%E7%8E%AF%E5%B9%B3%E5%8F%B0%E5%8E%9F%E5%9E%8B2.docx)
+[下载课本循环平台1.0版前台原型](http://osvz68mjl.bkt.clouddn.com/%E8%AF%BE%E6%9C%AC%E5%BE%AA%E7%8E%AF%E5%B9%B3%E5%8F%B0%E5%8E%9F%E5%9E%8B-%E8%82%96%E6%99%94%E6%99%97.docx)
+
 
 ### 项目简介
 
