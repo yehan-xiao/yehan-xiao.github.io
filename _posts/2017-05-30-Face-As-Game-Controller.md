@@ -15,8 +15,14 @@ A new human computer interaction.
 
 Create a controller that uses facial tracking in use for different video games. The controller will be made to interact with DosBox in order to play retro games such as pacman, mortal kombat etc.
 
+Currently the controls are as follow:
 
-![placeholder](http://okkrf0epo.bkt.clouddn.com/Game1.gif)
+  - Head up: w
+  - Head down: s
+  - Look left: a
+  - Look right: d
+  - Roll left: left-click (mouse 0)
+  - Roll right: right-click (mouse 1)
 
 ![placeholder](http://okkrf0epo.bkt.clouddn.com/Game2.gif)
 
