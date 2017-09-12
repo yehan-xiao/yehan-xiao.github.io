@@ -46,8 +46,5 @@ Administrators can also add, edit and delete events as necessary
 - Front end: HTML, CSS, JavaScript, Jquery Plugins.
 - Back end: PHP
 - Database: MySQL
-- File Structure 
-
-![placeholder](http://okkrf0epo.bkt.clouddn.com/UNNC-EVENT-Struct.png)
 
 
