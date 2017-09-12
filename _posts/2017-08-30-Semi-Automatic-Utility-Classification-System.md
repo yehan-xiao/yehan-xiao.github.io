@@ -41,9 +41,4 @@ The potential application of this approach is not limited to a particular region
 
 <h3 id="3">Project Index</h3>
 
-* [Requirement](general/requirement.md)
-* [Repository Organisation and Etiquette](general/repository_organisation_and_etiquette.md)
-* [Installation and Running](general/installation_and_running.md)
-* [User Guide](general/user_guide.md)
-* [System Constraints](general/system_constraints.md)
-* [Detection model](https://github.com/yehan-xiao/utility-detection-tool.git)
+[SUCS wiki](https://github.com/yehan-xiao/SUCS-wiki/blob/master/home.md)
