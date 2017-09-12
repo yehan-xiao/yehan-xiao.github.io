@@ -20,7 +20,15 @@ title: Face As Game Controller
 
 <h3 id="2">See More</h3>
 
+#### Video
 
 - [Full Video](http://v.youku.com/v_show/id_XMjk0OTc4OTUyNA==.html?spm=a2hzp.8244740.0.0#paction)
 
-- [Project Report](http://okkrf0epo.bkt.clouddn.com/Group-27-Group-Report.pdf)
+
+#### Report
+
+- [Project Report(Overview)](http://okkrf0epo.bkt.clouddn.com/Group-27-Group-Report.pdf)
+
+- [Face Tracking Part](http://osvz68mjl.bkt.clouddn.com/Face%20Tracking%20Report.pdf)
+
+- [Input Emulator Part](http://osvz68mjl.bkt.clouddn.com/Input%20Emulator%20Report.pdf)
