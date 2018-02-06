@@ -1,6 +1,8 @@
 ---
 layout: post
-title: UNNC Event Website
+date: 2014-07-18
+img: cabin.png
+alt: image-alt
 ---
 ![placeholder](http://okkrf0epo.bkt.clouddn.com/unnc-event-user.gif)
 <div class="message">
