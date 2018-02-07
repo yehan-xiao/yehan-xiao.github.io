@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2016-12-20
-img: mapviewer.jpg
+img: http://okkrf0epo.bkt.clouddn.com/mapviewer.jpg
 alt: image-alt
 project-date: Dec 2016
 category: Java

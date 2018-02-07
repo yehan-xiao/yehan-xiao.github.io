@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2017-08-30
-img: sucs.jpg
+img: http://okkrf0epo.bkt.clouddn.com/sucs.jpg
 alt: image-alt
 project-date: Aug 2017
 category: deep learning, web development

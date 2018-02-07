@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2017-04-24
-img: crazy_arcade.jpg
+img: http://okkrf0epo.bkt.clouddn.com/crazy_arcade.jpg
 alt: image-alt
 project-date: April 2017
 category: C++, AI

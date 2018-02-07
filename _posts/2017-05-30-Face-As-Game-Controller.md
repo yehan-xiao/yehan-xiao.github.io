@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2017-05-30
-img: controller.jpg
+img: http://okkrf0epo.bkt.clouddn.com/controller.jpg
 alt: image-alt
 project-date: May 2017
 category: face detection, openCV, C++, HCI
