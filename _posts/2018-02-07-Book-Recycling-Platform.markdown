@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2018-02-07
-img: carbin.png
+img: http://okkrf0epo.bkt.clouddn.com/cabin.png
 project-date: Feb 2018
 client: UNNC
 category: Wechat App
