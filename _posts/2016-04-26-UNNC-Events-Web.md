@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2016-04-26
-img: unnc_events.png
+img: unnc_events.jpg
 alt: image-alt
 project-date: April 2016
 category: Full Stack Web Development
