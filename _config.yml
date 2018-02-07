@@ -39,22 +39,21 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: instagram
-    url: 
-  - title: facebook
-    url:
-  - title: linkedin
-    url: https://www.linkedin.com/in/yehan-xiao-8bb813a8/
   - title: github
     url: https://github.com/yehan-xiao
+  - title: envelope-o
+    url: mailto:xiaoyehan96@outlook.com
+  - title: linkedin
+    url: https://www.linkedin.com/in/yehan-xiao-8bb813a8/
+  - title: weibo
+    url: https://weibo.com/2562409423/profile?topnav=1&wvr=6
+  - title: instagram
+    url: 
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: University of Nottingham
-  - line: Ningbo, China 315100
 
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+
+
 
 # Build settings
 markdown: kramdown
