@@ -6,7 +6,8 @@ img: http://okkrf0epo.bkt.clouddn.com/bookbeta.jpg
 project-date: Feb 2018
 client: UNNC
 category: Wechat App
-description: 书课贝塔是一款致力于整合校内信息的微信小程序。通过为用户提供个性化的课程表，参考书单，二手教材交易信息等方便学生校园生活.<p>项目获得学校5000元梦想启动基金；入围宁诺孵化园区创业大赛十强；第一版本上线两天内获得用户600+</p><p><a href="http://okkrf0epo.bkt.clouddn.com/document.pdf" target="blank">查看产品原型及文档</a></p>
+description: 书课贝塔是一个贯穿线上线下的校园二手书交易平台。通过个性化的线上二手书城小程序，线下的书籍寄存代卖服务，让闲置二手书高效流通到需要的学生手中。<p>第一版本上线一周获得用户1200+，线下活动5小时交易书籍60+；项目获得学校5000元梦想启动基金；宁诺孵化园区创业大赛最佳人气奖。</p>
+<p><a href="http://okkrf0epo.bkt.clouddn.com/document.pdf" target="blank">查看产品原型及文档</a></p>
 
 
 ---
