@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2018-02-07
-img: http://okkrf0epo.bkt.clouddn.com/bookbeta.jpg
+img: http://okkrf0epo.bkt.clouddn.com/bookBetaPoster.jpg
 project-date: Feb 2018
 client: UNNC
 category: Wechat App
