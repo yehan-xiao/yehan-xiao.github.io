@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2017-08-30
-img: http://yehan-blog.oss-cn-shanghai.aliyuncs.com/sucs.jpg?Expires=1546955848&OSSAccessKeyId=TMP.AQGaGpn7_hnFePWvaQx64hBMKN_R3pC_6qQ5NcqW1u0S2A_Gx6bnhs25YN7NAAAwLAIUTMRpW_b6ymPqv_rkSeQCpncU-e0CFBHYnTyyboMLegAdMYymIMGdHGJe&Signature=AjV38LT5P4Zbtdw1e9MCBxV2qYs%3D
+img: http://yehan-blog.oss-cn-shanghai.aliyuncs.com/sucs.jpg
 alt: image-alt
 client: UNNC Digital City Lab
 project-date: Aug 2017
