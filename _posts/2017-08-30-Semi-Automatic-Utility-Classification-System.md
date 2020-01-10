@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2017-08-30
-img: http://yehan-blog.oss-cn-shanghai.aliyuncs.com/sucs.jpg
+img: https://xiaoyehan.oss-cn-shenzhen.aliyuncs.com/image/sucs.jpg
 alt: image-alt
 client: UNNC Digital City Lab
 project-date: Aug 2017

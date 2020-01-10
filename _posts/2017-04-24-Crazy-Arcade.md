@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2017-04-24
-img: http://yehan-blog.oss-cn-shanghai.aliyuncs.com/crazy_arcade.jpg
+img: https://xiaoyehan.oss-cn-shenzhen.aliyuncs.com/image/crazy_arcade.jpg
 alt: image-alt
 project-date: April 2017
 category: C++, AI

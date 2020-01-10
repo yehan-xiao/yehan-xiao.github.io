@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2016-12-20
-img: http://yehan-blog.oss-cn-shanghai.aliyuncs.com/mapviewer.jpg
+img: https://xiaoyehan.oss-cn-shenzhen.aliyuncs.com/image/mapviewer.jpg
 alt: image-alt
 project-date: Dec 2016
 category: Java

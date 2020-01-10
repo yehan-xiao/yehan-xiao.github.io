@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2016-04-26
-img: http://yehan-blog.oss-cn-shanghai.aliyuncs.com/unnc_events.jpg
+img: https://xiaoyehan.oss-cn-shenzhen.aliyuncs.com/image/unnc_events.jpg
 alt: image-alt
 project-date: April 2016
 category: Full Stack Web Development
