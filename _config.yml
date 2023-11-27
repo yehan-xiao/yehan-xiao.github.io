@@ -1,10 +1,10 @@
 # Site settings
 title: Yehan Xiao
 email: xiaoyehan96@outlook.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Product Designer - Programming Beginner"
+url: https://yehan-xiao.github.io/
+description: "Want to do something cool. Seeking for AI related job."
+keywords: "Product, AIGC"
+skills: "User Growth, Product Design, Data Analysis, AI"
 meta_author: Xiao Yehan
 
 # Google webmaster tools
@@ -45,10 +45,6 @@ social:
     url: mailto:xiaoyehan96@outlook.com
   - title: linkedin
     url: https://www.linkedin.com/in/yehan-xiao-8bb813a8/
-  - title: weibo
-    url: https://weibo.com/2562409423/profile?topnav=1&wvr=6
-  - title: instagram
-    url: https://www.instagram.com/yehan.xiao/
 
 
 
